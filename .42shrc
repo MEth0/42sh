@@ -1,0 +1,8 @@
+alias grep grep --color
+alias ls ls --color=auto
+alias ll ls -l --color
+alias la ls -la --color
+alias ne emacs -nw
+alias tree tree -C
+./extra/ascii.sh
+
